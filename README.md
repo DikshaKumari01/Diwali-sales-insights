@@ -5,6 +5,6 @@ Examine sales by product category to determine which products are most popular d
 # Tools and Technologies
 Pandas - for managing the data,
 Numpy - for mathematical operations,
-Sklearn - for machine learning,
-Seaborn - for visulizing the data,
+sklearn - for machine learning,
+Seaborn - for visualizing the data,
 Matplotlib - for plotting tools
